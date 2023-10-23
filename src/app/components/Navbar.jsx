@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const navLinks = [
   {
-    title: "Acerca de",
+    title: "Acerca de mí",
     path: "#acerca",
   },
   {

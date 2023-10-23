@@ -28,7 +28,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Soy un entusiasta de las tecnologías con una profunda pasión por la innovación y la creación de soluciones. Me emociona colaborar en proyectos desafiantes y trabajar en equipos multidisciplinarios, siempre en busca de la mejora constante. Mi enfoque principal es proporcionar soluciones tecnológicas eficientes y de alta calidad, con un enfoque especial en la usabilidad, la accesibilidad y la experiencia del usuario.
+          Soy un entusiasta de las tecnologías con una profunda pasión por la innovación y la creación de soluciones.
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
