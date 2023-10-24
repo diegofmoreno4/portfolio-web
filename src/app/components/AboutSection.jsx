@@ -58,7 +58,7 @@ function AboutSection() {
   };
 
   return (
-    <section className="text-white">
+    <section className="text-white" id="acerca">
       <motion.div
         initial={{ opacity: 0, scale: 0.5 }}
         animate={{ opacity: 1, scale: 1 }}
@@ -66,7 +66,7 @@ function AboutSection() {
         div
         className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16"
       >
-        <Image src="/Images/Image-profile.jpg" width={400} height={400} />
+        <Image src="/Images/avatar.jpg" width={400} height={400} />
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}

@@ -8,31 +8,35 @@ const projectsData = [
   {
     id: 1,
     title: "Rick And Morty Website",
-    description: "Una aplicación web que utiliza React y Redux para explorar información detallada sobre los personajes de la serie Rick and Morty, con capacidad de filtrados.",
+    description:
+      "Una aplicación web que utiliza React y Redux para explorar información detallada sobre los personajes de la serie Rick and Morty, con capacidad de filtrados.",
     image: "/Images/rickandmorty.png",
     tag: ["Todos", "Individual"],
     gitUrl: "https://github.com/diegofmoreno4/Rick-y-Morty",
-    previewUrl: "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-activity-7063869489255198723-QqOP?utm_source=share&utm_medium=member_desktop",
+    previewUrl:
+      "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-activity-7063869489255198723-QqOP?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 2,
     title: "Dogs App",
-    description: "Una aplicación completa que utiliza React, Redux, PostgreSQL y Node.js para mostrar información sobre razas de perros, con características como paginación, filtros y búsqueda inteligente.",
+    description:
+      "Una aplicación completa que utiliza React, Redux, PostgreSQL y Node.js para mostrar información sobre razas de perros, con características como paginación, filtros y búsqueda inteligente.",
     image: "/Images/dogspi.png",
     tag: ["Todos", "Individual"],
     gitUrl: "https://github.com/diegofmoreno4/dog-api",
-    previewUrl: "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-sequelize-activity-7089959753556074496-wWcN?utm_source=share&utm_medium=member_desktop",
+    previewUrl:
+      "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-sequelize-activity-7089959753556074496-wWcN?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 3,
     title: "MarketZone",
-    description: "Un sitio web que permite a diferentes personas crear tiendas en línea y vender productos, fomentando la interacción entre vendedores y compradores.",
+    description:
+      "Un sitio web que permite a diferentes personas crear tiendas en línea y vender productos, fomentando la interacción entre vendedores y compradores.",
     image: "/Images/marketzone.png",
     tag: ["Todos", "Grupal"],
     gitUrl: "https://github.com/PF-MarketZone/Market-Zone",
     previewUrl: "https://marketzone.vercel.app/home",
   },
-
 ];
 
 function ProjectsSection() {
@@ -54,7 +58,7 @@ function ProjectsSection() {
   };
 
   return (
-    <section>
+    <section id="proyectos">
       <h2 className="text-center text-4xl font-bold text-white mt-4">
         Mis Proyectos
       </h2>
