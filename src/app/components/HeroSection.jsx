@@ -34,7 +34,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Soy un entusiasta de las tecnologías con una profunda pasión por la
+            Entusiasta de las tecnologías con una profunda pasión por la
             innovación y la creación de soluciones.
           </p>
           <div>
@@ -43,7 +43,9 @@ const HeroSection = () => {
             </button>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3">
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                <a href="./CV-DIEGO-MONTEALEGRE.pdf">
                 Descargar CV
+                </a>
               </span>
             </button>
           </div>
