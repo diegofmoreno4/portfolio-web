@@ -12,7 +12,7 @@ const projectsData = [
     image: "/Images/rickandmorty.png",
     tag: ["Todos", "Individual"],
     gitUrl: "https://github.com/diegofmoreno4/Rick-y-Morty",
-    previewUrl: "https://www.linkedin.com/posts/diego-felipe-moreno-montealegre-126a30189_react-redux-activity-7063869489255198723-M20m?utm_source=share&utm_medium=member_desktop",
+    previewUrl: "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-activity-7063869489255198723-QqOP?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const projectsData = [
     image: "/Images/dogspi.png",
     tag: ["Todos", "Individual"],
     gitUrl: "https://github.com/diegofmoreno4/dog-api",
-    previewUrl: "https://www.linkedin.com/posts/diego-felipe-moreno-montealegre-126a30189_react-redux-sequelize-activity-7089959753556074496-xQDI?utm_source=share&utm_medium=member_desktop",
+    previewUrl: "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-sequelize-activity-7089959753556074496-wWcN?utm_source=share&utm_medium=member_desktop",
   },
   {
     id: 3,
