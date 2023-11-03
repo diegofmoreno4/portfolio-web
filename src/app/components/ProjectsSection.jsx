@@ -6,7 +6,7 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
-    id: 1,
+    id: 2,
     title: "Rick And Morty Website",
     description:
       "Una aplicación web que utiliza React y Redux para explorar información detallada sobre los personajes de la serie Rick and Morty, con capacidad de filtrados.",
@@ -17,7 +17,7 @@ const projectsData = [
       "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-activity-7063869489255198723-QqOP?utm_source=share&utm_medium=member_desktop",
   },
   {
-    id: 2,
+    id: 3,
     title: "Dogs App",
     description:
       "Una aplicación completa que utiliza React, Redux, PostgreSQL y Node.js para mostrar información sobre razas de perros, con características como paginación, filtros y búsqueda inteligente.",
@@ -28,7 +28,7 @@ const projectsData = [
       "https://www.linkedin.com/posts/diego-felipe-montealegre-126a30189_react-redux-sequelize-activity-7089959753556074496-wWcN?utm_source=share&utm_medium=member_desktop",
   },
   {
-    id: 3,
+    id: 1,
     title: "MarketZone",
     description:
       "Un sitio web que permite a diferentes personas crear tiendas en línea y vender productos, fomentando la interacción entre vendedores y compradores.",
